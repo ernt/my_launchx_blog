@@ -17,4 +17,4 @@ Hola! Te contare algunos temas  aprendidos :
 -Node Js
 
 
-Gracias por leerme :blush:
+Gracias por leerme 😊🐧
