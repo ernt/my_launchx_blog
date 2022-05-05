@@ -15,4 +15,4 @@ Para mi la cultura de un desarrollador se base en lo siguiente :
 Siendo estos algunos aspectos importante que tomaria en cuenta.
 
 
- :wolf:
+ 🐺
