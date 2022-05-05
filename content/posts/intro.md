@@ -9,5 +9,10 @@ Para mi la cultura de un desarrolador se base en lo siguiente :
 -Resperto
 -Dedicacion
 -Perseverancia
+-Integro
+
 
 Siendo estos algunos aspectos importante que tomaria en cuenta.
+
+
+ :wolf:
