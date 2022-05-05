@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de Aprendizaje en Launch X "
 date: 2022-03-01
-description: 'Te contare mi travesia  en Launch-X'
+description: 'Te contare mi travesia en Launch-X'
 ---
 
 Hola! Te contare algunos temas  aprendidos :
@@ -17,4 +17,4 @@ Hola! Te contare algunos temas  aprendidos :
 -Node Js
 
 
-Gracias por leer :blush:
+Gracias por leerme :blush:
