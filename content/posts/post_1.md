@@ -4,7 +4,7 @@ date: 2022-03-01
 description: 'Te contare mi travesia en Launch-X'
 ---
 
-Hola! Te contare algunos temas  aprendidos :
+Hola! Te contare algunos temas  aprendidos 🐧:
 -Python
 -Logica de programacion
 -Jupyter Notebook
@@ -17,4 +17,4 @@ Hola! Te contare algunos temas  aprendidos :
 -Node Js
 
 
-Gracias por leerme 😊🐧
+Gracias por leerme 😊
